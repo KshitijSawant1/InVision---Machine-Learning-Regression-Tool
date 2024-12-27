@@ -1,4 +1,4 @@
-# License for InVision - Machine Learning Regression Tool
+# <img src="https://github.com/user-attachments/assets/766015ee-bc96-422c-8ca1-098d9d2f86c8" alt="InVision Logo" width="40"/> License for InVision - Machine Learning Regression Tool
 
 ## Custom License Based on MIT Principles
 
