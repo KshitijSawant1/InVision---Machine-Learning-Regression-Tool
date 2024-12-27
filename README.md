@@ -1,11 +1,10 @@
+# <img src="https://github.com/user-attachments/assets/766015ee-bc96-422c-8ca1-098d9d2f86c8" alt="InVision Logo" width="40"/> InVision - Machine Learning Regression Tool
+
+Version: 1.0
+Author: Kshitij K Sawant
 ---
 
-# InVision - Machine Learning Regression Tool
 
-**Version:** 1.0  
-**Author:** Kshitij K Sawant
-
----
 
 ## Overview
 
@@ -94,12 +93,13 @@ This dataset is ideal for exploring regression on cryptocurrency market trends.
 ## Screenshots
 
 ### Application UI
-![alt text](InVision/InVision (Close X Open , Low , High).png "Optional title")
+<img width="1020" alt="InVision (Close X Open , Low , High)" src="https://github.com/user-attachments/assets/f8bf20f5-e424-4bc7-b6ea-d13210bfbdf5" />
 
 ### Application Logo
-![alt text](InVision/InVission Logo.png "Optional title")
+<img width="500" alt="InVision Logo" src="[https://github.com/user-attachments/assets/f8bf20f5-e424-4bc7-b6ea-d13210bfbdf5](https://github.com/user-attachments/assets/766015ee-bc96-422c-8ca1-098d9d2f86c8)" />
 
----
+
+
 
 ## Future Enhancements
 
