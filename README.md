@@ -118,7 +118,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 
 For inquiries or contributions, reach out to **Kshitij K Sawant** via [sawantkshitij1@gmail.com](mailto:email@example.com).  
-
---- 
-
-Feel free to adjust the placeholders like "username" and "email@example.com" to your specific project details.
